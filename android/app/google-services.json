@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749617752078",
+    "project_id": "praktika-72225",
+    "storage_bucket": "praktika-72225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749617752078:android:324d91cf50a5798d31b45f",
+        "android_client_info": {
+          "package_name": "com.praktika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdaualEga2pyjQEawymrCe_CfsqF7LECw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
